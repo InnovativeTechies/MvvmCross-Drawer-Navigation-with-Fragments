@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DAF2DFEA-92B3-4D42-A70C-311421C9B39E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmCross_FragmentNavigation_Demo.Droid/MainActivity.cs">
+    <Files>
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Core/MainViewModel.cs" Line="11" Column="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Core/App.cs" Line="8" Column="6" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/MainActivity.cs" Line="11" Column="68" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/Fragment_A.cs" Line="17" Column="58" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/Fragment_B.cs" Line="16" Column="58" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/Fragment_C.cs" Line="20" Column="1" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/Presenter.cs" Line="51" Column="45" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/Setup.cs" Line="30" Column="41" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/Resources/layout/home.axml" Line="33" Column="45" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/Resources/layout/AView.axml" Line="11" Column="48" NotebookId="1" />
+      <File FileName="MvvmCross_FragmentNavigation_Demo.Droid/Resources/layout/BView.axml" Line="11" Column="48" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MvvmCross__FragmentNavigation__Demo.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.56.101:5555" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../BodyTech/LiftManager.Core.Tests/RepositoryTests/ExerciseRepositoryTests.cs" line="118" offsetX="112" offsetY="1884" expression="itemA" liveUpdate="False" />
+    <Watch file="../../BodyTech/LiftManager.Core.Tests/RepositoryTests/ExerciseRepositoryTests.cs" line="119" offsetX="165" offsetY="1997" expression="itemB" liveUpdate="False" />
+    <Watch file="../../BodyTech/LiftManager.Core.Tests/RepositoryTests/MigrationRepositoryTests.cs" line="73" offsetX="105" offsetY="1116" expression="list[9].created.Ticks" liveUpdate="False" />
+    <Watch file="../../BodyTech/LiftManager.Core.Tests/RepositoryTests/MigrationRepositoryTests.cs" line="73" offsetX="26" offsetY="1143" expression="findMigrationInfo[0].created.Ticks" liveUpdate="False" />
+    <Watch file="../../BodyTech/BodyTech.Core/Services/Storage/RepositoryService.cs" line="114" offsetX="347" offsetY="1662" expression="e.Message" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

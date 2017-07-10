@@ -1,0 +1,2 @@
+/Users/ashleyproctor/Projects/Fragment_Navigation_Demo/MvvmCross_FragmentNavigation_Demo.Droid/obj/Debug/MvvmCross_FragmentNavigation_Demo.Droid.csprojResolveAssemblyReference.cache
+/Users/ashleyproctor/Projects/Fragment_Navigation_Demo/MvvmCross_FragmentNavigation_Demo.Droid/obj/Debug/XbdMerge/Xamarin.Android.Support.Annotations.dll.stamp
