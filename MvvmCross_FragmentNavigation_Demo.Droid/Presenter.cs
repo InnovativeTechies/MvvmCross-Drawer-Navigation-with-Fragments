@@ -27,7 +27,7 @@ namespace MvvmCross_FragmentNavigation_Demo.Droid
         public override void Show(MvxViewModelRequest request)
         {
             Type fragmentType;
-            if (_fragmentManager == null || !_fragmentTypeLookup.TryGetFragmentType(request.ViewModelType, out fragmentType))
+            if (_fragmentManager == null || !_fragmentTypeLookup.TryParseFragmentType(request.ViewModelType, out fragmentType))
             {
                 base.Show(request);
 
