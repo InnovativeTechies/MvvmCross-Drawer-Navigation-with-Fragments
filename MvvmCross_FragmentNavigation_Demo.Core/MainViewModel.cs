@@ -20,7 +20,4 @@ namespace MvvmCross_FragmentNavigation_Demo.Core
 			ShowViewModel(typeof(CViewModel));
 		}
     }
-    public class AViewModel : MvxViewModel {}
-    public class BViewModel : MvxViewModel {}
-    public class CViewModel : MvxViewModel {}
 }

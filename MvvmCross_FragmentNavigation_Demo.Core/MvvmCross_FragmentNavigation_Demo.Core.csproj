@@ -31,6 +31,9 @@
     <Compile Include="App.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MainViewModel.cs" />
+    <Compile Include="AViewModel.cs" />
+    <Compile Include="BViewModel.cs" />
+    <Compile Include="CViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MvvmCross.Platform">
