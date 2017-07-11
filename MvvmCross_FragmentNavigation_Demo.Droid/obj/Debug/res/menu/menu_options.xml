@@ -1,0 +1,3 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    android:id="@+id/drawerMenu"&gt;
+    <item android:id="@+id/pageA" android:title="Page A" /><item android:id="@+id/pageB" android:title="Page B" /><item android:id="@+id/pageC" android:title="Page C" /></menu>
