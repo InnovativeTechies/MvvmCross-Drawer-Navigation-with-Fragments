@@ -1,2 +1,0 @@
-android.app.Application
-com.magenic.mvvmcross_fragmentnavigation_demo_droid
