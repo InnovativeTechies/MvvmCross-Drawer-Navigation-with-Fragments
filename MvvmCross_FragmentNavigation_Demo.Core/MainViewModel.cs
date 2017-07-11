@@ -11,14 +11,14 @@ namespace MvvmCross_FragmentNavigation_Demo.Core
         }
 		
         public void ShowBViewModel()
-		{
-			ShowViewModel(typeof(BViewModel));
-		}
+	{
+		ShowViewModel(typeof(BViewModel));
+	}
 
-		public void ShowCViewModel()
-		{
-			ShowViewModel(typeof(CViewModel));
-		}
+	public void ShowCViewModel()
+	{
+		ShowViewModel(typeof(CViewModel));
+	}
     }
     public class AViewModel : MvxViewModel {}
     public class BViewModel : MvxViewModel {}
